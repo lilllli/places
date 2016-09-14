@@ -1,2 +1,8 @@
-# places
-Places to be, people to meet, food to eat
+Places
+======
+Places to be, People to meet, Food to eat
+
+## Legend
+:fire: Awesomesauce
+:poop: Downer
+:skull: No longer alive (shut down)
