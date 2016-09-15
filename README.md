@@ -12,4 +12,6 @@ Places to be, People to meet, Food to eat
 - [x] Hershey Park (Hershey, PA)
 - [ ] Great Sand Dunes National Park (Colorado)
 - [ ] Big Bend National Park (Texas)
-- [ ] 
+- [x] Yosemite National Park (California)
+- [ ] Prada Marfa (Valentine, TX)
+- [x] River Walk (San Antonio, TX)

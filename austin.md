@@ -10,10 +10,10 @@ Austin
 - [ ] True Food Kitchen
 - [ ] Ramen Fukuya
 - [x] The Spider House :fire:
-- [x] Doc's Grill :fire:
+- [x] Doc's Grill: fried avocado, Arnold Palmer :fire:
+- [x] Chi'Lantro: spicy chicken
 
 ### Food Trucks
-- [x] Chi'Lantro
 - [x] The Peached Tortilla
 - [ ] Hey! Are You Going to Eat or What?
 - [ ] East Side King
@@ -26,18 +26,33 @@ Austin
 - [x] 77 Degrees: rooftop :fire:
 - [x] Punch Bowl Social
 - [x] Easy Tiger :fire:
+- [ ] The Container Bar
+- [x] The Blackheart
+- [ ] Icenhauers's
 
 ### Shops
 - [x] The Domain
 - [x] Round Rock Outlets
-- [x] Buffalo Exchange
-- [x] Monkey See Monkey Do
-- [x] Uncommon Objects
-- [x] 
+- [x] Buffalo Exchange :fire:
+- [x] Monkey See Monkey Do :fire:
+- [x] Uncommon Objects :fire:
+- [x] Warby Parker :fire:
+- [ ] Farewell Books
+- [x] Waterloo Records & Video :fire:
+- [x] Board Life :fire:
+- [x] New Bohemia
+
+### Hiking
+- [x] Riverhead
+- [x] St Edwards :fire:
+- [ ] Green Belt
 
 ### Misc
 - [x] 6th Street
-- [x] Rainey Street
-- [x] South Congress
+- [x] Rainey Street :fire:
+- [x] South Congress :fire:
 - [x] Barton Springs
 - [ ] Hamilton Pool
+- [ ] Mondo Gallery :fire:
+- [x] San Marcos (tubing)
+- [x] 9Round (boxing gym)
