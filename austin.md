@@ -12,6 +12,7 @@ Austin
 - [x] The Spider House :fire:
 - [x] Doc's Grill: fried avocado, Arnold Palmer :fire:
 - [x] Chi'Lantro: spicy chicken
+- [x] Mozart's Cafe
 
 ### Food Trucks
 - [x] The Peached Tortilla
@@ -56,3 +57,5 @@ Austin
 - [ ] Mondo Gallery :fire:
 - [x] San Marcos (tubing)
 - [x] 9Round (boxing gym)
+- [x] Space 24 Twenty (courtyard behind Urban) :fire:
+- [x] Texas Rowing Center (paddleboarding) 1541 W Cesar Chavez St
