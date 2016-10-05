@@ -13,6 +13,9 @@ Austin
 - [x] Doc's Grill: fried avocado, Arnold Palmer :fire:
 - [x] Chi'Lantro: spicy chicken
 - [x] Mozart's Cafe
+- [x] Ramen Tatsu-Ya :fire:
+- [x] Magnolia Cafe
+- [x] Tiny Pies
 
 ### Food Trucks
 - [x] The Peached Tortilla
@@ -43,19 +46,23 @@ Austin
 - [x] Board Life :fire:
 - [x] New Bohemia
 
-### Hiking
+### Hiking & Nature
 - [x] Riverhead
 - [x] St Edwards :fire:
 - [ ] Green Belt
+- [ ] Hamilton Pool
+- [x] Barton Springs
+- [ ] Jacob's Well
+- [ ] 360 Bridge
 
 ### Misc
 - [x] 6th Street
 - [x] Rainey Street :fire:
 - [x] South Congress :fire:
-- [x] Barton Springs
-- [ ] Hamilton Pool
-- [ ] Mondo Gallery :fire:
+- [x] Mondo Gallery
 - [x] San Marcos (tubing)
 - [x] 9Round (boxing gym)
 - [x] Space 24 Twenty (courtyard behind Urban) :fire:
 - [x] Texas Rowing Center (paddleboarding) 1541 W Cesar Chavez St
+- [x] Master Pancake at Alamo
+- [x] Graffiti Park
