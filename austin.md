@@ -3,9 +3,8 @@ Austin
 
 ### Food
 - [x] Torchy's
-- [x] 24 Diner: Betsy's Veggie burger, shakes :fire:
 - [ ] Sushi Zushi
-- [ ] Joe's Crab Shack
+- [x] Joe's Crab Shack
 - [ ] A+A Sichuan China
 - [ ] True Food Kitchen
 - [ ] Ramen Fukuya
@@ -14,8 +13,15 @@ Austin
 - [x] Chi'Lantro: spicy chicken
 - [x] Mozart's Cafe
 - [x] Ramen Tatsu-Ya :fire:
-- [x] Magnolia Cafe
 - [x] Tiny Pies
+
+### Open 24 Hours
+- [x] Magnolia Cafe: Tuna Pecan Salad, late night omelette :fire:
+- [x] Jim's Restaurant
+- [x] 24 Diner: Betsy's Veggie burger, shakes :fire:
+- [x] Star Seeds Cafe
+- [x] Monkey Nest Cafe :fire:
+- [x] Kerbey Lane Cafe
 
 ### Food Trucks
 - [x] The Peached Tortilla
@@ -33,6 +39,7 @@ Austin
 - [ ] The Container Bar
 - [x] The Blackheart
 - [ ] Icenhauers's
+- [x] Lone Star Court :fire:
 
 ### Shops
 - [x] The Domain
@@ -52,7 +59,7 @@ Austin
 - [ ] Green Belt
 - [ ] Hamilton Pool
 - [x] Barton Springs
-- [ ] Jacob's Well
+- [x] Jacob's Well
 - [ ] 360 Bridge
 
 ### Misc
@@ -66,3 +73,4 @@ Austin
 - [x] Texas Rowing Center (paddleboarding) 1541 W Cesar Chavez St
 - [x] Master Pancake at Alamo
 - [x] Graffiti Park
+- [ ] House of Torment
