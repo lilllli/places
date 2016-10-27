@@ -14,6 +14,7 @@ Austin
 - [x] Mozart's Cafe
 - [x] Ramen Tatsu-Ya :fire:
 - [x] Tiny Pies
+- [x] Vera Cruz (E Cesar Chavez): fish taco, migas, aqua frescas :fire:
 
 ### Open 24 Hours
 - [x] Magnolia Cafe: Tuna Pecan Salad, late night omelette :fire:
@@ -48,10 +49,15 @@ Austin
 - [x] Monkey See Monkey Do :fire:
 - [x] Uncommon Objects :fire:
 - [x] Warby Parker :fire:
-- [ ] Farewell Books
+- [x] Farewell Books
 - [x] Waterloo Records & Video :fire:
 - [x] Board Life :fire:
 - [x] New Bohemia
+
+### Museums
+- [x] Art.Science.Gallery
+- [x] The Thinkery :fire:
+- [x] Austin Toy Museum :poop:
 
 ### Hiking & Nature
 - [x] Riverhead
