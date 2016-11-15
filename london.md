@@ -1,6 +1,0 @@
-London
-======
-
-### Food
-### Bars
-### Misc
