@@ -1,6 +1,12 @@
 England
 ======
 
+### Districts
+- [ ] Camden
+- [ ] Chelsea
+- [ ] Shoreditch 
+- [ ] Brixton
+
 ### Food
 - [ ] [Pie &amp; Vinyl](http://www.pieandvinyl.co.uk/)
 - [ ] [Sketch](http://sketch.london/)
