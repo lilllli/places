@@ -7,6 +7,7 @@ England
 - [ ] Shoreditch 
 - [ ] Brixton
 - [ ] Chinatown
+- [ ] Soho
 
 
 ### Food
@@ -23,16 +24,18 @@ England
 - [ ] [Biscuiteers](https://www.biscuiteers.com/)
 - [ ] [Paper &amp; Cup](http://www.paperandcup.co.uk/)
 - [ ] [The Thali Cafe](http://www.thethalicafe.co.uk/)
+- [ ] [Darwin Brasserie]
 
 ### Bars 
 - [ ] [Evans and Peel Detective Agency](http://www.evansandpeel.com/)
-
 
 ### Shops
 - [ ] [Blitz](http://www.blitzlondon.co.uk/)
 - [ ] [Harrods](http://www.harrods.com/)
 - [ ] [Rough Trade East](https://www.roughtrade.com/)
 - [ ] [Camden Market](https://www.camdenmarket.com/)
+- [ ] [Selfridges](http://www.selfridges.com/)
+
 
 ### Museums :free:
 - [ ] [Geffrye](http://www.geffrye-museum.org.uk/)
@@ -40,8 +43,13 @@ England
 - [ ] [Natural History Museum](http://www.nhm.ac.uk/)
 - [ ] [Cliveden](http://www.clivedenhouse.co.uk/)
 
-### Misc
+### Attractions
+- [ ] London Dungeons
 - [ ] London Eye
+
+
+### Misc
+- [ ] The Old Truman Brewery
 - [ ] Big Ben
 - [ ] Buckingham Palace
 - [ ] Brixton Village
