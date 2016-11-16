@@ -48,6 +48,7 @@ New York City
 - [x] Bryant Park
 - [x] [Barcade](http://barcadenewyork.com/)
 - [ ] [House of Yes](http://houseofyes.org/)
-- [x] Randall's Island
+- [x] [Governor's Ball Music Festival](http://governorsballmusicfestival.com/) on Randall's Island :fire:
+- [ ] [Electric Zoo Festival](http://electriczoofestival.com/)
 - [ ] The High Line
 
