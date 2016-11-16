@@ -25,7 +25,6 @@ England
 - [ ] [The Thali Cafe](http://www.thethalicafe.co.uk/)
 
 ### Bars 
-- [ ] [Alcoholic Architecture](http://www.alcoholicarchitecture.com/)
 - [ ] [Evans and Peel Detective Agency](http://www.evansandpeel.com/)
 
 
@@ -42,6 +41,7 @@ England
 - [ ] [Cliveden](http://www.clivedenhouse.co.uk/)
 
 ### Misc
+- [ ] Buckingham Palace
 - [ ] Brixton Village
 - [ ] Oxford Street
 - [ ] [Winter Wonderland](http://hydeparkwinterwonderland.com/)
