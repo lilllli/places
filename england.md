@@ -41,6 +41,7 @@ England
 - [ ] [Cliveden](http://www.clivedenhouse.co.uk/)
 
 ### Misc
+- [ ] London Eye
 - [ ] Big Ben
 - [ ] Buckingham Palace
 - [ ] Brixton Village
