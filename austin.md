@@ -2,63 +2,64 @@ Austin
 ======
 
 ### Food
-- [x] Torchy's
-- [ ] Sushi Zushi
-- [x] Joe's Crab Shack
-- [ ] A+A Sichuan China
-- [ ] True Food Kitchen
+- [x] [Torchy's](http://torchystacos.com/)
+- [ ] [Sushi Zushi](https://sushizushi.com/)
+- [x] [Joe's Crab Shack](http://www.joescrabshack.com/)
+- [ ] [A+A Sichuan China](http://www.aasichuanchina.com/)
+- [ ] [True Food Kitchen](http://www.truefoodkitchen.com/)
 - [ ] Ramen Fukuya
-- [x] The Spider House :fire:
-- [x] Doc's Grill: fried avocado, Arnold Palmer :fire:
-- [x] Chi'Lantro: spicy chicken
-- [x] Mozart's Cafe
-- [x] Ramen Tatsu-Ya :fire:
-- [x] Tiny Pies
-- [x] Vera Cruz (E Cesar Chavez): fish taco, migas, aqua frescas :fire:
-- [x] Little Sheep Mongolian Hot Pot :fire:
+- [x] [The Spider House](https://spiderhouse.com/cafe/) :fire:
+- [x] [Doc's Grill](http://eatdrinkdocs.com/): fried avocado, Arnold Palmer :fire:
+- [x] [Chi'Lantro](http://www.chilantrobbq.com/): spicy chicken
+- [x] [Mozart's Cafe](http://www.mozartscoffee.com/)
+- [x] [Ramen Tatsu-Ya](http://ramen-tatsuya.com/) :fire:
+- [x] [Tiny Pies](http://www.tinypies.com/)
+- [x] [Vera Cruz](http://veracruztacos.com/) (E Cesar Chavez): fish taco, migas, aqua frescas :fire:
+- [x] [Little Sheep Mongolian Hot Pot](http://littlesheephotpot.com/) :fire:
 
 ### Open 24 Hours
-- [x] Magnolia Cafe: Tuna Pecan Salad, late night omelette :fire:
-- [x] Jim's Restaurant
-- [x] 24 Diner: Betsy's Veggie burger, shakes :fire:
-- [x] Star Seeds Cafe
-- [x] Monkey Nest Cafe :fire:
-- [x] Kerbey Lane Cafe
+- [x] [Magnolia Cafe](http://www.magnoliacafeaustin.com/): Tuna Pecan Salad, late night omelette :fire:
+- [x] [Jim's Restaurant](https://www.jimsrestaurants.com/)
+- [x] [24 Diner](http://24diner.com/): Betsy's Veggie burger, shakes :fire:
+- [x] [Star Seeds Cafe](http://starseedscafe.com/)
+- [x] [Monkey Nest Cafe](http://www.monkeynestcoffee.com/) :fire:
+- [x] [Kerbey Lane Cafe](http://kerbeylanecafe.com/)
 
 ### Food Trucks
-- [x] The Peached Tortilla
-- [ ] Hey! Are You Going to Eat or What?
+- [x] [The Peached Tortilla](http://www.thepeachedtortilla.com/)
+- [ ] [Hey! Are You Going to Eat or What?](http://www.heyyougonnaeatorwhat.com/)
 - [ ] East Side King
 - [x] Rainey Street Food Truck Park
 - [x] 6th Street Food Truck Park
 
 ### Bars
-- [x] Maggie Mae's
-- [ ] Mean Eyed Cat
-- [x] 77 Degrees: rooftop :fire:
-- [x] Punch Bowl Social
-- [x] Easy Tiger :fire:
-- [ ] The Container Bar
-- [x] The Blackheart
-- [ ] Icenhauers's
-- [x] Lone Star Court :fire:
+- [x] [Maggie Mae's](http://www.maggiemaesaustin.com/)
+- [ ] [Mean Eyed Cat](http://themeaneyedcat.com/)
+- [x] [77 Degrees](http://77-degrees.com/) :fire:
+- [x] [Punch Bowl Social](http://www.punchbowlsocial.com/)
+- [x] [Easy Tiger](http://easytigeraustin.com/) :fire:
+- [ ] [The Container Bar](http://austincontainerbar.com/)
+- [x] [The Blackheart](http://blackheartbar.com/)
+- [ ] [Icenhauers's](http://www.icenhauers.com/)
+- [x] [Lone Star Court](http://www.lonestarcourt.com/austin-eat-drink.htm) :fire:
+- [x] [Black Star Co-op](http://www.blackstar.coop/)
 
 ### Shops
-- [x] The Domain
-- [x] Round Rock Outlets
-- [x] Buffalo Exchange :fire:
+- [x] [The Domain](http://www.simon.com/mall/the-domain)
+- [x] [Round Rock Outlets](http://www.premiumoutlets.com/outlet/round-rock)
+- [x] [Buffalo Exchange](http://www.buffaloexchange.com/) :fire:
 - [x] Monkey See Monkey Do :fire:
-- [x] Uncommon Objects :fire:
-- [x] Warby Parker :fire:
-- [x] Farewell Books
-- [x] Waterloo Records & Video :fire:
-- [x] Board Life :fire:
+- [x] [Uncommon Objects](http://www.uncommonobjects.com/) :fire:
+- [x] [Warby Parker](https://www.warbyparker.com/retail/austin/1317-south-congress) :fire:
+- [x] [Farewell Books](http://www.farewellbookstore.com/)
+- [x] [Waterloo Records & Video](http://www.waterloorecords.com/) :fire:
+- [x] [BOARDLife](http://www.boardlifeusa.com/) :fire:
 - [x] New Bohemia
 
 ### Museums
-- [x] Art.Science.Gallery
-- [x] The Thinkery :fire:
-- [x] Austin Toy Museum :poop:
+- [x] [Art.Science.Gallery](http://www.artsciencegallery.com/)
+- [x] [The Thinkery](https://thinkeryaustin.org/) :fire:
+- [x] [Austin Toy Museum](http://austintoymuseum.org/) :poop:
 
 ### Hiking & Nature
 - [x] Riverhead
@@ -73,11 +74,11 @@ Austin
 - [x] 6th Street
 - [x] Rainey Street :fire:
 - [x] South Congress :fire:
-- [x] Mondo Gallery
+- [x] [Mondo Gallery](https://mondotees.com/blogs/gallery)
 - [x] San Marcos (tubing)
 - [x] 9Round (boxing gym)
 - [x] Space 24 Twenty (courtyard behind Urban) :fire:
 - [x] Texas Rowing Center (paddleboarding) 1541 W Cesar Chavez St
-- [x] Master Pancake at Alamo
+- [x] [Master Pancake](https://drafthouse.com/series/master-pancake) at Alamo Drafthouse
 - [x] Graffiti Park
-- [ ] House of Torment
+- [ ] [House of Torment](http://www.thehouseoftorment.com/)
