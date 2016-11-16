@@ -18,7 +18,7 @@ England
 
 ### Bars 
 - [ ] [Alcoholic Architecture](http://www.alcoholicarchitecture.com/)
-- [ ][Evans and Peel Detective Agency](http://www.evansandpeel.com/)
+- [ ] [Evans and Peel Detective Agency](http://www.evansandpeel.com/)
 
 
 ### Shops
