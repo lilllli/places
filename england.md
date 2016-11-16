@@ -6,6 +6,8 @@ England
 - [ ] Chelsea
 - [ ] Shoreditch 
 - [ ] Brixton
+- [ ] Chinatown
+
 
 ### Food
 - [ ] [Pie &amp; Vinyl](http://www.pieandvinyl.co.uk/)
