@@ -15,6 +15,7 @@ Austin
 - [x] Ramen Tatsu-Ya :fire:
 - [x] Tiny Pies
 - [x] Vera Cruz (E Cesar Chavez): fish taco, migas, aqua frescas :fire:
+- [x] Little Sheep Mongolian Hot Pot :fire:
 
 ### Open 24 Hours
 - [x] Magnolia Cafe: Tuna Pecan Salad, late night omelette :fire:
