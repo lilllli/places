@@ -44,6 +44,10 @@ New York City
 - [ ] [29Rooms](http://www.refinery29.com/29rooms/) (opens once a year)
 
 ### Misc
+- [x] Central Park
+- [x] Bryant Park
 - [x] [Barcade](http://barcadenewyork.com/)
 - [ ] [House of Yes](http://houseofyes.org/)
+- [x] Randall's Island
+- [ ] The High Line
 
