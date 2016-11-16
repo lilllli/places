@@ -29,6 +29,11 @@ New York City
 - [x] Kenka (Yakuza-theme ramen shop)
 - [x] [Naruto Ramen](http://narutoramenex.com/)
 - [x] [Di Di Dumplings](http://www.dididumplings.com/) :fire:
+- [x] [Nom Wah Tea Parlor](http://nomwah.com/)
+- [x] [Halal Guys](http://thehalalguys.com/) :fire:
+
+### Cafes
+- [ ] [A Place Creative](http://apcafenyc.com/)
 
 ### Museums
 - [x] [The Metropolitan Museum of Art](http://www.metmuseum.org/) :fire:
@@ -40,4 +45,5 @@ New York City
 
 ### Misc
 - [x] [Barcade](http://barcadenewyork.com/)
+- [ ] [House of Yes](http://houseofyes.org/)
 
