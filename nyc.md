@@ -2,16 +2,42 @@ New York City
 =============
 
 ### Food
-- [ ] Bibble and Sip: matcha cream puff
-- [ ] Poke Spot
-- [x] Bauhaus :fire:
-- [x] Kyochon :fire:
-- [x] Bonchon
-- [x] Xi'an Famous Foods :fire:
-- [x] Food Gallery 32
-- [x] Bahn Mi Saigon
-- [x] Vanessa's Dumplings
-- [x] Koneko (cat cafe)
-- [ ] Roberta's
+- [ ] [Bibble and Sip](http://www.bibbleandsip.com/): matcha cream puff
+- [ ] [Poke Spot](http://www.pokespot.com/)
+- [x] [Baohaus](http://www.baohausnyc.com/) :fire:
+- [x] [Kyochon](http://kyochonus.com/)
+- [x] [Bonchon](https://bonchon.com/) :fire:
+- [x] [Xi'an Famous Foods](http://xianfoods.com/) :fire:
+- [x] [Food Gallery 32](http://foodgallerynyc.com/)
+- [x] [Bahn Mi Saigon](http://www.banhmisaigonnyc.com/)
+- [x] [Vanessa's Dumplings](http://vanessas.com/)
+- [x] [Koneko](https://www.konekonyc.com/) (cat cafe)
+- [ ] [Roberta's](http://robertaspizza.com/)
 - [ ] Lucali's
-- [ ] Ippudo
+- [ ] [Ippudo](http://www.ippudony.com/)
+- [ ] [Boba Guys](http://www.bobaguys.com/)
+- [x] [BCD Tofu House](http://bcdtofu.com/)
+- [x] [Woorijip](http://woorijipnyc.com/) :fire:
+- [ ] [Miss Korea BBQ](http://www.misskoreabbq.com/)
+- [ ] [Mandoo Bar](http://mandoobar.net/)
+- [ ] [Black Tap Craft Burgers &amp; Beer](http://blacktapnyc.com/): infamous smoothies
+- [x] [Eataly](https://www.eataly.com/us_en/) :fire:
+- [x] [Indikitch](http://indikitch.com/)
+- [ ] [Ichiran](http://www.ichiran.co.jp/en/locations/shopinfo/brooklyn.html)
+- [ ] [Momofuku Noodle Bar](https://noodlebar-ny.momofuku.com/)
+- [ ] [Milk Bar](http://milkbarstore.com/)
+- [x] Kenka (Yakuza-theme ramen shop)
+- [x] [Naruto Ramen](http://narutoramenex.com/)
+- [x] [Di Di Dumplings](http://www.dididumplings.com/) :fire:
+
+### Museums
+- [x] [The Metropolitan Museum of Art](http://www.metmuseum.org/) :fire:
+- [x] [The Museum of Modern Art](https://www.moma.org/) :poop:
+- [x] [American Museum of Natural History](http://www.amnh.org/)
+- [ ] [Solomon R. Guggenheim Museum](https://www.guggenheim.org/)
+- [ ] [Museum of the Moving Image](http://www.movingimage.us/)
+- [ ] [29Rooms](http://www.refinery29.com/29rooms/) (opens once a year)
+
+### Misc
+- [x] [Barcade](http://barcadenewyork.com/)
+

@@ -2,11 +2,11 @@ Hong Kong
 =========
 
 ### Food
-- [x] Din Tai Fung
-- [ ] Yum Cha: custard buns
+- [x] [Din Tai Fung](http://www.dintaifung.com.hk/)
+- [ ] [Yum Cha](http://yumchahk.com/): custard buns
 
 ### Misc
 - [x] A Symphony of Lights :poop:
-- [x] Stanley Market
+- [x] [Stanley Market](http://www.hk-stanley-market.com/)
 - [ ] Repulse Bay
-- [ ] Disneyland
+- [ ] [Disneyland](https://www.hongkongdisneyland.com)
