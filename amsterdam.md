@@ -1,6 +1,0 @@
-Amsterdam
-======
-
-### Food
-### Bars
-### Misc
