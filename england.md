@@ -1,15 +1,6 @@
 England
 ======
 
-### Districts
-- [ ] Camden
-- [ ] Chelsea
-- [ ] Shoreditch 
-- [ ] Brixton
-- [ ] Chinatown
-- [ ] Soho
-
-
 ### Food
 - [ ] [Pie &amp; Vinyl](http://www.pieandvinyl.co.uk/)
 - [ ] [Sketch](http://sketch.london/)
@@ -36,7 +27,6 @@ England
 - [ ] [Camden Market](https://www.camdenmarket.com/)
 - [ ] [Selfridges](http://www.selfridges.com/)
 
-
 ### Museums :free:
 - [ ] [Geffrye](http://www.geffrye-museum.org.uk/)
 - [ ] [The British Museum](http://www.britishmuseum.org/)
@@ -47,6 +37,13 @@ England
 - [ ] London Dungeons
 - [ ] London Eye
 
+### London Districts
+- [ ] Camden
+- [ ] Chelsea
+- [ ] Shoreditch 
+- [ ] Brixton
+- [ ] Chinatown
+- [ ] Soho
 
 ### Misc
 - [ ] The Old Truman Brewery
