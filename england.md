@@ -32,6 +32,7 @@ England
 - [ ] [The British Museum](http://www.britishmuseum.org/)
 - [ ] [Natural History Museum](http://www.nhm.ac.uk/)
 - [ ] [Cliveden](http://www.clivedenhouse.co.uk/)
+- [ ] [Design Museum](http://designmuseum.org/)
 
 ### Attractions
 - [ ] London Dungeons
