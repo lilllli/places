@@ -20,7 +20,7 @@ New York City
 - [x] [Woorijip](http://woorijipnyc.com/) :fire:
 - [ ] [Miss Korea BBQ](http://www.misskoreabbq.com/)
 - [ ] [Mandoo Bar](http://mandoobar.net/)
-- [ ] [Black Tap Craft Burgers &amp; Beer](http://blacktapnyc.com/): infamous smoothies
+- [ ] [Black Tap](http://blacktapnyc.com/): infamous smoothies
 - [x] [Eataly](https://www.eataly.com/us_en/) :fire:
 - [x] [Indikitch](http://indikitch.com/)
 - [ ] [Ichiran](http://www.ichiran.co.jp/en/locations/shopinfo/brooklyn.html)
@@ -31,6 +31,7 @@ New York City
 - [x] [Di Di Dumplings](http://www.dididumplings.com/) :fire:
 - [x] [Nom Wah Tea Parlor](http://nomwah.com/)
 - [x] [Halal Guys](http://thehalalguys.com/) :fire:
+- [ ] [The Cinnamon Snail](http://cinnamonsnail.com/): pretzel caramel chocolate cupcake
 
 ### Cafes
 - [ ] [A Place Creative](http://apcafenyc.com/)
@@ -44,6 +45,7 @@ New York City
 - [ ] [29Rooms](http://www.refinery29.com/29rooms/) (opens once a year)
 
 ### Misc
+- [ ] [The Pennsy](http://www.thepennsy.nyc/)
 - [x] Central Park
 - [x] Bryant Park
 - [x] [Barcade](http://barcadenewyork.com/)
