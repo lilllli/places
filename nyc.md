@@ -43,6 +43,7 @@ New York City
 - [ ] [Solomon R. Guggenheim Museum](https://www.guggenheim.org/)
 - [ ] [Museum of the Moving Image](http://www.movingimage.us/)
 - [ ] [29Rooms](http://www.refinery29.com/29rooms/) (opens once a year)
+- [ ] [Museum of Ice Cream](http://www.museumoficecream.com/) (reopens March 2017)
 
 ### Misc
 - [ ] [The Pennsy](http://www.thepennsy.nyc/)
