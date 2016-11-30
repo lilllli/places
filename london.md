@@ -2,13 +2,13 @@ England
 ======
 
 ### Food
-- [ ] [Pie &amp; Vinyl](http://www.pieandvinyl.co.uk/)
 - [ ] [Sketch](http://sketch.london/)
 - [ ] [Bourne & Hollingsworth Buildings](http://bandhbuildings.com/)
 - [ ] [Dishoom](http://www.dishoom.com/kings-cross/) at King's Cross
 - [ ] [Dumpling Shack](http://www.dumplingshack.co.uk/)
 - [ ] [Gunpowder](http://www.gunpowderlondon.com/)
 - [ ] [Somsaa](http://www.somsaa.com/)
+- [ ] [Pie &amp; Vinyl](http://www.pieandvinyl.co.uk/) (not in London)
 
 ### Cafes
 - [ ] [Monocle Cafe](http://cafe.monocle.com/)
