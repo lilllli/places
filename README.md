@@ -32,3 +32,7 @@ Places to be, People to meet, Food to eat
 - [ ] Longwood Gardens (Kennett Square, PA)
 - [ ] Great Sand Dunes National Park (Colorado)
 - [ ] Jeju Island (South Korea)
+
+## Someday
+A [separate branch](https://github.com/lllychen/places/tree/someday) for places I have no immediate plans of visiting but have already started gathering places for. Fingers crossed.
+

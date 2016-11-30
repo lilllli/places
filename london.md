@@ -8,7 +8,7 @@ England
 - [ ] [Dumpling Shack](http://www.dumplingshack.co.uk/)
 - [ ] [Gunpowder](http://www.gunpowderlondon.com/)
 - [ ] [Somsaa](http://www.somsaa.com/)
-- [ ] [Pie &amp; Vinyl](http://www.pieandvinyl.co.uk/) (not in London)
+- [ ] [Pie &amp; Vinyl](http://www.pieandvinyl.co.uk/) (in Southsea)
 
 ### Cafes
 - [ ] [Monocle Cafe](http://cafe.monocle.com/)
