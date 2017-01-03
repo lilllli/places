@@ -3,8 +3,8 @@ Boston
 
 ### Food
 - [ ] [Sakura Sunakku](http://www.sakurasunakku.com/index.html): crepe ice cream
-- [ ] Royce Chocolate Popup 💀
-- [ ] [Beard Papa's](http://beardpapa.com/)
+- [x] Royce Chocolate Popup
+- [x] [Beard Papa's](http://beardpapa.com/)
 - [x] [Lady M Confections](https://www.ladym.com/): matcha crepe cake :fire:
 - [x] [Hokkaido Ramen Santouka](https://www.santouka.co.jp/en)
 - [ ] [Dosa Factory](http://dosaboston.com/)
@@ -26,6 +26,7 @@ Boston
 - [ ] [Koreana](http://koreanaboston.com/)
 - [ ] [Ebi Sushi](http://ebisushi.com/)
 - [ ] [Naco Taco](http://nacocentral.com/)
+- [ ] [Mamaleh's](http://mamalehs.com/) :fire:
 
 ### Cafes
 - [x] [Paul Bakery](http://www.paul-usa.com/en/) :fire:
@@ -47,7 +48,7 @@ Boston
 - [ ] [Comicazi](http://www.comicazi.com/)
 
 ### Museums
-- [ ] [Museum of Fine Arts](http://www.mfa.org/)
+- [x] [Museum of Fine Arts](http://www.mfa.org/) :fire:
 - [ ] [Museum of Science](https://www.mos.org/)
 
 ### Misc
