@@ -8,17 +8,26 @@ England
 - [ ] [Dumpling Shack](http://www.dumplingshack.co.uk/)
 - [ ] [Gunpowder](http://www.gunpowderlondon.com/)
 - [ ] [Somsaa](http://www.somsaa.com/)
-- [ ] [Pie &amp; Vinyl](http://www.pieandvinyl.co.uk/) (in Southsea)
+- [ ] [Pie &amp; Vinyl](http://www.pieandvinyl.co.uk/)
+- [x] [Byron Hamburgers](http://www.byronhamburgers.com/)
+- [x] [Shoryu Ramen](https://www.shoryuramen.com/)
+- [x] [Thai Terrace](http://kensingtonthaiterrace.co.uk/)
 
 ### Cafes
 - [ ] [Monocle Cafe](http://cafe.monocle.com/)
 - [ ] [Biscuiteers](https://www.biscuiteers.com/)
 - [ ] [Paper &amp; Cup](http://www.paperandcup.co.uk/)
 - [ ] [The Thali Cafe](http://www.thethalicafe.co.uk/)
-- [ ] [Darwin Brasserie]
+- [ ] [Darwin Brasserie](https://skygarden.london/darwin)
+- [x] [Patisserie Valerie](http://www.patisserie-valerie.co.uk/)
+- [x] [Jacob's Coffee House](http://jacobscoffeehouse.com/) :fire:
 
-### Bars 
+### Pubs
+- [x] [The Royal Standard of England](http://www.rsoe.co.uk/) :fire:
 - [ ] [Evans and Peel Detective Agency](http://www.evansandpeel.com/)
+- [x] [The Queen's Arms](https://www.thequeensarmskensington.co.uk/)
+- [x] [The Bathampton Mill](http://www.thebathamptonmill.co.uk/)
+- [x] [The Golden Lion](http://www.thegoldenlionwinchester.co.uk) :fire:
 
 ### Shops
 - [ ] [Blitz](http://www.blitzlondon.co.uk/)
@@ -26,25 +35,20 @@ England
 - [ ] [Rough Trade East](https://www.roughtrade.com/)
 - [ ] [Camden Market](https://www.camdenmarket.com/)
 - [ ] [Selfridges](http://www.selfridges.com/)
+- [x] [Topping & Company Booksellers of Bath](https://www.toppingbooks.co.uk/) :fire:
 
 ### Museums :free:
 - [ ] [Geffrye](http://www.geffrye-museum.org.uk/)
 - [ ] [The British Museum](http://www.britishmuseum.org/)
-- [ ] [Natural History Museum](http://www.nhm.ac.uk/)
+- [x] [Natural History Museum](http://www.nhm.ac.uk/)
 - [ ] [Cliveden](http://www.clivedenhouse.co.uk/)
-- [ ] [Design Museum](http://designmuseum.org/)
+- [x] [Design Museum](http://designmuseum.org/) :poop:
+- [x] [The Roman Baths](https://www.romanbaths.co.uk/) (not free!)
 
 ### Attractions
 - [ ] London Dungeons
 - [ ] London Eye
-
-### London Districts
-- [ ] Camden
-- [ ] Chelsea
-- [ ] Shoreditch 
-- [ ] Brixton
-- [ ] Chinatown
-- [ ] Soho
+- [x] Windsor Castle
 
 ### Misc
 - [ ] The Old Truman Brewery
@@ -52,7 +56,27 @@ England
 - [ ] Buckingham Palace
 - [ ] Brixton Village
 - [ ] Oxford Street
-- [ ] [Winter Wonderland](http://hydeparkwinterwonderland.com/)
+- [x] [Winter Wonderland](http://hydeparkwinterwonderland.com/)
 - [ ] Shoreditch Art Wall
 - [ ] Broadway Market (on Saturdays)
 - [ ] Spitalfields Market
+
+### Cities
+- [x] London
+- [x] Winchester
+- [x] Windsor
+- [x] Bath
+- [ ] Bristol
+- [ ] Glasgow
+- [ ] Edinburgh
+- [ ] Oxford
+
+### London Districts
+- [x] Camden
+- [ ] Chelsea
+- [ ] Shoreditch 
+- [ ] Brixton
+- [x] Chinatown
+- [ ] Soho
+- [x] Kensington
+- [x] Piccadilly Circus
