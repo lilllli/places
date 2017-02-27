@@ -19,14 +19,14 @@ Boston
 - [ ] Gene's Chinese Flatbread Cafe: Liang Pi
 - [ ] Taiwan Cafe
 - [ ] Peach Farm
-- [ ] [Shabu &amp; Mein](http://www.shabumein.com/)
+- [x] [Shabu &amp; Mein](http://www.shabumein.com/)
 - [x] [Mother Juice](http://www.motherjuiceboston.com/) :poop:
 - [x] [The Chicken &amp; Rice Guys](http://cnrguys.com/)
 - [x] [Itadaki](http://www.itadakiboston.com/) :fire:
 - [ ] [Koreana](http://koreanaboston.com/)
 - [ ] [Ebi Sushi](http://ebisushi.com/)
 - [ ] [Naco Taco](http://nacocentral.com/)
-- [ ] [Mamaleh's](http://mamalehs.com/) :fire:
+- [x] [Mamaleh's](http://mamalehs.com/) :fire:
 
 ### Cafes
 - [x] [Paul Bakery](http://www.paul-usa.com/en/) :fire:

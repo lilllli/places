@@ -67,8 +67,6 @@ England
 - [x] Windsor
 - [x] Bath
 - [ ] Bristol
-- [ ] Glasgow
-- [ ] Edinburgh
 - [ ] Oxford
 
 ### London Districts
