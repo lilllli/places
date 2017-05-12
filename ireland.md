@@ -24,16 +24,16 @@ Ireland
 - [x] [The Winding Stair (bookshop)](http://winding-stair.com/)
 - [x] [Books Upstairs](http://www.booksirish.com/)
 
-### Attractions
-- [x] Ha'penny Bridge
-- [ ] [Guiness Storehouse](https://www.guinness-storehouse.com/en)
-- [ ] [Saint Patrick's Cathedral](https://www.stpatrickscathedral.ie/)
-
 ### Misc
 - [x] Temple Bar :fire:
 - [x] [Powerscourt Centre](http://www.powerscourtcentre.ie/)
 - [x] [Trinity College](https://www.tcd.ie/)
+- [x] Ha'penny Bridge
+- [ ] [Guiness Storehouse](https://www.guinness-storehouse.com/en)
+- [ ] [Saint Patrick's Cathedral](https://www.stpatrickscathedral.ie/)
+- [x] [Cliffs of Moher](https://www.cliffsofmoher.ie/) 🔥
 
 ### Cities
-
-
+- [x] Dublin
+- [x] Rathmines
+- [x] Galway 💩
