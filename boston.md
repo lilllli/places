@@ -32,6 +32,7 @@ Boston
 - [x] [Dig Inn](http://www.diginn.com/)
 - [x] [Gourmet Dumpling House](https://www.yelp.com/biz/gourmet-dumpling-house-boston-3)
 - [ ] [Bostonia Public House](http://bostoniapublichouse.com/)
+- [ ] [Ittoku](https://www.yelp.com/biz/ittoku-boston)
 
 ### Cafes
 - [x] [Paul Bakery](http://www.paul-usa.com/en/) :fire:
