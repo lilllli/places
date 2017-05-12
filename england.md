@@ -45,12 +45,20 @@ England
 - [x] [Design Museum](http://designmuseum.org/) :poop:
 - [x] [The Roman Baths](https://www.romanbaths.co.uk/) (not free!)
 
-### Attractions
+### Hiking & Nature
+- [ ] Lake District National Park
+    - [ ] Derwentwater
+    - [ ] Loughrigg Fell
+    - [ ] Oxen Fell
+- [ ] Durdle Door
+- [ ] The Glenfinnan Viaduct (Harry Potter train tracks)
+- [ ] The Cotswold Wildlife Park & Gardens
+- [ ] The Jurassic Coast
+
+### Misc
 - [ ] London Dungeons
 - [ ] London Eye
 - [x] Windsor Castle
-
-### Misc
 - [ ] The Old Truman Brewery
 - [ ] Big Ben
 - [ ] Buckingham Palace
