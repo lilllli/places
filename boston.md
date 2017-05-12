@@ -38,7 +38,7 @@ Boston
 - [x] [Paul Bakery](http://www.paul-usa.com/en/) :fire:
 - [x] [Trident Bookseller's and Cafe](http://tridentbookscafe.com/)
 - [x] [J.P. Licks](http://www.jplicks.com/)
-- [x] [Tatte Bakery and Cafe](http://tattebakery.com/)
+- [x] [Tatte Bakery and Cafe](http://tattebakery.com/) (roasted cauliflower sandwich)
 - [ ] [Flour Bakery + Cafe](http://flourbakery.com/)
 - [ ] [Thinking Cup](http://www.thinkingcup.com/)
 - [x] [Crema Cafe](https://www.cremacambridge.com/)
