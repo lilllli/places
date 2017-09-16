@@ -8,7 +8,7 @@ England
 - [ ] [Dumpling Shack](http://www.dumplingshack.co.uk/)
 - [ ] [Gunpowder](http://www.gunpowderlondon.com/)
 - [ ] [Somsaa](http://www.somsaa.com/)
-- [ ] [Pie &amp; Vinyl](http://www.pieandvinyl.co.uk/)
+- [x] [Pie &amp; Vinyl](http://www.pieandvinyl.co.uk/) :fire:
 - [x] [Byron Hamburgers](http://www.byronhamburgers.com/)
 - [x] [Shoryu Ramen](https://www.shoryuramen.com/)
 - [x] [Thai Terrace](http://kensingtonthaiterrace.co.uk/)
@@ -54,10 +54,10 @@ England
     - [ ] Derwentwater
     - [ ] Loughrigg Fell
     - [ ] Oxen Fell
-- [x] Durdle Door
+- [x] Durdle Door :fire:
 - [ ] The Glenfinnan Viaduct (Harry Potter train tracks)
 - [ ] The Cotswold Wildlife Park & Gardens
-- [x] The Jurassic Coast
+- [x] The Jurassic Coast :fire:
 
 ### Misc
 - [ ] London Dungeons
