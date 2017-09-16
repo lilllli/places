@@ -32,6 +32,7 @@ Places to be, People to meet, Food to eat
 - [x] Portland Head Light (Portland, ME)
 - [x] Cliffs of Moher (Ireland)
 - [x] Cliff Walk (Newport, RI)
+- [x] White Mountains National Park (New Hampshire)
 - [x] Stockholm, Sweden
 - [x] Oslo, Norway
 - [x] Trolltunga (Norway)
