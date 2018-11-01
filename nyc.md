@@ -6,7 +6,7 @@ New York City
 - [ ] [Poke Spot](http://www.pokespot.com/)
 - [x] [Baohaus](http://www.baohausnyc.com/) :fire:
 - [x] [Kyochon](http://kyochonus.com/)
-- [x] [Bonchon](https://bonchon.com/) :fire:
+- [x] [Bonchon](https://bonchon.com/)
 - [x] [Xi'an Famous Foods](http://xianfoods.com/) :fire:
 - [x] [Food Gallery 32](http://foodgallerynyc.com/)
 - [x] [Bahn Mi Saigon](http://www.banhmisaigonnyc.com/)
@@ -16,23 +16,23 @@ New York City
 - [ ] [Ippudo](http://www.ippudony.com/)
 - [x] [Boba Guys](http://www.bobaguys.com/)
 - [x] [BCD Tofu House](http://bcdtofu.com/)
-- [x] [Woorijip](http://woorijipnyc.com/) :fire:
+- [x] [Woorijip](http://woorijipnyc.com/)
 - [ ] [Miss Korea BBQ](http://www.misskoreabbq.com/)
 - [ ] [Mandoo Bar](http://mandoobar.net/)
 - [ ] [Black Tap](http://blacktapnyc.com/): infamous smoothies
-- [x] [Eataly](https://www.eataly.com/us_en/) :fire:
+- [x] [Eataly](https://www.eataly.com/us_en/)
 - [x] [Indikitch](http://indikitch.com/)
 - [ ] [Ichiran](http://www.ichiran.co.jp/en/locations/shopinfo/brooklyn.html)
 - [ ] [Momofuku Noodle Bar](https://noodlebar-ny.momofuku.com/)
 - [ ] [Milk Bar](http://milkbarstore.com/)
 - [x] Kenka (Yakuza-theme ramen shop)
 - [x] [Naruto Ramen](http://narutoramenex.com/)
-- [x] [Di Di Dumplings](http://www.dididumplings.com/) :fire:
+- [x] [Di Di Dumplings](http://www.dididumplings.com/)
 - [x] [Nom Wah Tea Parlor](http://nomwah.com/)
-- [x] [Halal Guys](http://thehalalguys.com/) :fire:
+- [x] [Halal Guys](http://thehalalguys.com/)
 - [x] [The Cinnamon Snail](http://cinnamonsnail.com/): pretzel caramel chocolate cupcake
 - [x] [The Pennsy](http://www.thepennsy.nyc/)
-- [ ] [Avocaderia](http://www.avocaderia.com/) (avocado everything!)
+- [x] [Avocaderia](http://www.avocaderia.com/) (avocado everything!)
 - [ ] [Ichiran](https://www.yelp.com/biz/ichiran-brooklyn) (single booth ramen shop)
 
 ### Cafes
