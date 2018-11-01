@@ -34,6 +34,8 @@ New York City
 - [x] [The Pennsy](http://www.thepennsy.nyc/)
 - [x] [Avocaderia](http://www.avocaderia.com/) (avocado everything!)
 - [ ] [Ichiran](https://www.yelp.com/biz/ichiran-brooklyn) (single booth ramen shop)
+- [ ] [Raku](http://rakunyc.com/)
+- [ ] [Ivan Ramen](https://www.ivanramen.com/)
 
 ### Cafes
 - [ ] [A Place Creative](http://apcafenyc.com/)
